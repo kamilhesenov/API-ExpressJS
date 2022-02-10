@@ -1,0 +1,20 @@
+{
+  "name": "Api wit Express",
+  "version": "1.0.0",
+  "description": "API для учебного проекта 4-Node.Js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamilhesenov/API-ExpressJS.git"
+  },
+  "author": "Anton Larchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamilhesenov/API-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/kamilhesenov/API-ExpressJS#readme"
+}
